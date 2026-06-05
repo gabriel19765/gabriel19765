@@ -45,6 +45,6 @@ Ingeniero de Software (DAM) especializado en el diseño de sistemas agénticos d
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel19765&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel19765&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-omega-fawn.vercel.app/api?username=gabriel19765&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-omega-fawn.vercel.app/api/top-langs/?username=gabriel19765&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" height="180" />
 </p>
